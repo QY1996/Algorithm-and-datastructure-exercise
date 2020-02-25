@@ -22,6 +22,7 @@ Offer simple test programs of each projects.
 ## Other Algorithms
 
 - Astar Algorithm
+- KMP Algorithm
 - Ten types of classical sorting algorithms
 
 # Environment
